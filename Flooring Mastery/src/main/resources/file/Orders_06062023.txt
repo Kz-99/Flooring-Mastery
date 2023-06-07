@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Kev,Texas,4.45,Tile,100.25,3.5,4.15,350.875,416.0375,34.12760625000001,801.04010625

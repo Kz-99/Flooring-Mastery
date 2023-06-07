@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Kevin,Texas,4.45,Wood,100.0,5.15,4.75,515.0,475.0,44.05500000000001,1034.055
